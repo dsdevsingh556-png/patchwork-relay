@@ -1,0 +1,9 @@
+{
+  "name": "patchwork-relay",
+  "version": "0.1.1",
+  "private": true,
+  "description": "Patchwork Relay V0.1.1 offline sandbox for Vercel",
+  "scripts": {
+    "start": "npx --yes serve ."
+  }
+}
